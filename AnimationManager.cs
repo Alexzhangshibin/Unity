@@ -2,10 +2,13 @@
 /// Animation manager
 /// This script use for control animation of character.
 /// </summary>
+/*静夜思
+	-李白
 //床前明月光,
 //疑是地上霜,
 //举头望明月,
 //低头思故乡.
+*/
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
